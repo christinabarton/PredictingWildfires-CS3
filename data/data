@@ -1,1 +1,13 @@
+## 📊 Data Source
 
+The dataset used in this project was obtained from the **Zenodo** [CA Fire Weather Dataset](https://zenodo.org/records/14712845).  
+We specifically used the data up to the year 2023.  
+
+The CSV we utilized:  
+- `CA_Weather_Fire_Dataset_1984-2025.csv` — contains whether or not there was a fire on a specific day and the weather  
+
+## 📊 Processed Data
+
+The processed version of our origional data is in labeled 'cleaned_df.csv' in this folder
+
+The columns consist of DATE, PRECIPITATION, MAX_TEMP, MIN_TEMP, AVG_WIND_SPEED, FIRE_START_DAY,YEAR, TEMP_RANGE, WIND_TEMP_RATIO, SEASON, LAGGED_PRECIPITATION, and LAGGED_AVG_WIND_SPEED
