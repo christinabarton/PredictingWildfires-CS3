@@ -10,7 +10,7 @@
   - Includes background information on the topic and logistic/random forest modeling
 - Hook: motivation for the case study
 - Rubric: contains directions for the case study
-- Liscence 
+- License 
  
 ## References 
 [1] California Office of Environmental Health Hazard Assessment, “Wildfires,” Ca.gov, 2023. https://oehha.ca.gov/climate-change/epic-2022/impacts-vegetation-and-wildlife/wildfires
