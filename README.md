@@ -8,6 +8,8 @@
   - cleaned dataset 
 - Materials
   - Includes background information on the topic and logistic/random forest modeling
+- Scripts
+  - Modeling example script for this case study
 - Hook: motivation for the case study
 - Rubric: contains directions for the case study
 - License 
